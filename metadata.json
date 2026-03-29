@@ -1,0 +1,5 @@
+{
+  "name": "JJK VISION ENGINE",
+  "description": "A high-end, classified editorial archive of the Jujutsu Kaisen universe, featuring real-time vision-based technique recognition and immersive AR effects.",
+  "requestFramePermissions": ["camera", "microphone"]
+}

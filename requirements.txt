@@ -1,0 +1,11 @@
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+numpy>=1.24
+torch>=2.2
+torchvision>=0.17
+scikit-learn>=1.4
+pygame>=2.5
+SpeechRecognition>=3.10
+pyaudio>=0.2.14
+scipy>=1.12
+Pillow>=10.0
